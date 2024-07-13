@@ -187,10 +187,10 @@ footer textarea{
     display: none;
 }
 @media screen and (max-width: 576px){
-    .resume-container, .skills-container, .secondary-bg {
+    .resume-container, .skills-container, .secondary-bg, .about-items {
         flex-direction: column;
     }
-    footer{
+    footer, .about{
         padding: 0px;
     }
     .footer-column{
